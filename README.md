@@ -1,6 +1,13 @@
-# project1
+# Commnity Board
 
-A new Flutter project.
+A community board application
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 18 19 28](https://user-images.githubusercontent.com/60423130/172164599-27d0b652-2dcb-490f-9536-a2425510caf0.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 18 19 33](https://user-images.githubusercontent.com/60423130/172164620-f51c9a5c-b8e0-414e-ab6f-c3e4d9e897ed.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 18 19 39](https://user-images.githubusercontent.com/60423130/172164645-36b77f5f-caae-4653-875e-9de2c1a7f2be.png)
+
 
 ## Getting Started
 
